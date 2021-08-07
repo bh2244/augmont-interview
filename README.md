@@ -1,1 +1,1 @@
-# augmont-interview
+# Augmont Gold's interview exercises
