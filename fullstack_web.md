@@ -8,7 +8,7 @@ Please follow the instructions in the below links.
 
 ## FullStack web exercise
 
-1. UI: build a registration and login flow Android application
+1. UI: build a registration and login flow Web application
 
 [Frontend Web exercise](https://github.com/bh2244/augmont-interview/blob/main/frontend.md)
 
