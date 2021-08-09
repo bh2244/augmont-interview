@@ -10,11 +10,11 @@ Please follow the instructions in the below links.
 
 1. UI: build a registration and login flow Android application
 
-[Frontend Web exercise](https://github.com/Augmont-Gold/interview-exercises/blob/main/frontend.md)
+[Frontend Web exercise](https://github.com/bh2244/augmont-interview/blob/main/frontend.md)
 
 2. Backend: Once the User is logged in, allow them to query salary data from an API that will you build
 
-[Backend exercise](https://github.com/Augmont-Gold/interview-exercises/blob/main/backend.md)
+[Backend exercise](https://github.com/bh2244/augmont-interview/blob/main/backend.md)
 
 Only logged in Users should be able to get access to this API page.
 
