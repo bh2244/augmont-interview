@@ -4,7 +4,7 @@ Thanks for interviewing with us @ Augmont Gold, to better assess your skills and
 
 Please follow the following instructions to complete your exercise.
 
-1. Create a new private repository (GitHub) for your exercise and add `bob224` as private collaborators.
+1. Create a new private repository (GitHub) for your exercise and add `bh2244` as private collaborators.
 2. Complete as much of the exercise as you can in 4 hours or less. Use Anguar technology.
 3. Be sure to include the following in your submission
 
